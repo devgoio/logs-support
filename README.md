@@ -1,2 +1,2 @@
-# Logss Support
-Support and privacy information for Logss on macOS.
+# Logs Support
+Support and privacy information for Logs on macOS.
